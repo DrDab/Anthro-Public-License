@@ -1,5 +1,5 @@
 # Furry-Public-License
-A permissive software license that upholds the usage of open-soure software for ethical purposes.
+A permissive software license that upholds the usage of open-source software for ethical purposes.
 
 # License
 Furry Public License
