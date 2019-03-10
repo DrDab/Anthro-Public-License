@@ -1,12 +1,12 @@
-# Furry-Public-License
+# Anthro-Public-License
 A permissive software license that upholds the usage of open-source software for ethical purposes.
 
 # License
-Furry Public License
+Anthro Public License
 
 Copyright (c) [year] [author name]
 
-Permission is granted to any furry or non-furry obtaining a copy of this software and associated documentation, to
+Permission is granted to any user obtaining a copy of this software and associated documentation, to
 the following actions below with this software, granted this license is attached:
 
 1. Usage* of this software under ethical terms, outlined below.
