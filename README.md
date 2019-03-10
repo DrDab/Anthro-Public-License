@@ -22,7 +22,7 @@ out of usage or dealing of this software.
 
 * The ethical terms this software may not be used under include:
 
-- Usage for any projects with the capability or intention of endangering the lives of others, such as lethal autonomous weapons.
+- Usage for any projects with the intention of endangering the lives of others, such as lethal autonomous weapons.
 
 - Usage as an accessory in projects to aid the indirect or direct harm of animals or unethical treatment of animals,
 such as laboratory testing or factory farming.
