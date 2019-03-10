@@ -4,7 +4,7 @@ A permissive software license that upholds the usage of open-soure software for 
 # License
 Furry Public License
 
-Copyright (c) <year> <author>
+Copyright (c) [year] [author name]
 
 Permission is granted to any furry or non-furry obtaining a copy of this software and associated documentation, to
 the following actions below with this software, granted this license is attached:
