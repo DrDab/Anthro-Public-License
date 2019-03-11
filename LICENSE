@@ -16,7 +16,7 @@ is provided "as-is", without any warranty. In no event shall the authors or copy
 or criminal claims or liability from usage of this software, whether in an action of contract, tort or otherwise,
 out of usage or dealing of this software.
 
-* The ethical terms this software may not be used under include:
+*The ethical terms this software may not be used under include:
 
 - Usage for any projects with the intention of endangering the lives of others, such as lethal autonomous weapons.
 
@@ -25,6 +25,9 @@ such as laboratory testing or factory farming.
 
 - Usage for political censorship or agendas that directly violate human rights to free speech and expression, or other essential
 rights as defined in the UN's Universal Declaration of Human Rights.
+
+- Usage of this software to promote hate or discrimination against any race, nationality, sexual orientation, gender identity,
+political stance, religious orientation or other factors.
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
 The copyright holder of this software reserves the right to file litigation in the case that any of these terms are violated
